@@ -20,6 +20,8 @@ function sendToDatabase(){
 </script>
     </head>
 
+    echo 'hello world';
+
     Student name: <input type="text" id="sn"/>   <br>
     SID: <input type="text" id = "sid"/>
     
